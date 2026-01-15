@@ -1,45 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mohamud Guure</h1>
-<h3 align="center">A Passionate Software / Frontend Developer</h3>
-
----
-
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **JavaScript, React & Modern Web Technologies**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: *I love building clean & user-friendly interfaces*
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamudguure367-art&show_icons=true&theme=tokyonight" />
-</p>
+<h1 align="center">Hi 👋, I'm Moha Gure</h1>
+<h3 align="center">Software Developer | Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamudguure367-art&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://github.com/mohamudguure367-art" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/mohamudguure367-art">
+    <img src="https://komarev.com/ghpvc/?username=mohamudguure367-art&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting my GitHub profile!*
+## 👨‍💻 About Me
+- 🌱 Currently learning **Full Stack Web Development**
+- 💻 Experienced with **Frontend & Backend technologies**
+- 🔭 Interested in building **real-world applications**
+- 📫 Reach me at: **moha.gure@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamudguure367-art&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamudguure367-art&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohamudguure367-art&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Goals
+- Build professional web applications  
+- Improve backend & database skills  
+- Contribute to open-source projects  
+
+---
+
+⭐ *Feel free to explore my repositories and projects*
 
 commit message: Update profile README
